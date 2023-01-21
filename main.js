@@ -8,5 +8,3 @@ for (let i = 1; i <= number ; i++) {
 if (number < 5){
     console.log("sorry no numbers");
 }
-
-
